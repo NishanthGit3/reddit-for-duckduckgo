@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Reddit for DuckDuckGo",
+    "version": "1.0",
+    "author": "Nishanth",
+  
+    "description": "Switches the search engine from DuckDuckGo to Google when the term 'reddit' is used in the search",
+  
+    "icons": {
+      "48": "icons/icon48.png",
+      "96": "icons/icon96.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://duckduckgo.com/*", "*://*.duckduckgo.com/*"],
+        "js": ["functionality.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
