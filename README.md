@@ -6,5 +6,5 @@ This add-on was made due to DuckDuckGo not properly showing recent reddit thread
 
 ## Downloads  
 - [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/reddit-for-duckduckgo/)
-- Edge Add-on (coming soon)
+- [Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/reddit-for-duckduckgo/lfjnalgimcmllngeffpomfgeooaliinb)
 - Chrome Extension (not planned)
